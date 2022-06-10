@@ -1,7 +1,8 @@
 import json
 import re
+from frontendgui import txt
 
-endInput = 'MCA020'
+endInput = txt
 
 
 with open('/Users/rahulanilal/Javascript/ClassToDep.json', 'r') as f:
