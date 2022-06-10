@@ -1,0 +1,131 @@
+[
+    {
+        "name" : "Main Gate",
+        "co-ords" : [51, 393]
+    },
+
+    {
+        "name" : "Design Thinking Lab",
+        "co-ords" : [85, 426]
+    },
+
+    {
+        "name" : "Mechanical Engineering Department",
+        "co-ords" : [128, 498]
+    },
+
+    {
+        "name" : "IEM",
+        "co-ords" : [196, 508]
+    },
+
+    {
+        "name" : "Mechanical Engineering Workshop",
+        "co-ords" : [261, 444]
+    },
+
+    {
+        "name" : "Kriakalpa",
+        "co-ords" : [348, 850]
+    },
+
+    {
+        "name" : "PG Mechanical Block",
+        "co-ords" : [144, 373]
+    },
+
+    {
+        "name" : "Administrative Block",
+        "co-ords" : [227, 331]
+    },
+
+    {
+        "name" : "Civil Engineering Department",
+        "co-ords" : [349, 260]
+    },
+
+    {
+        "name" : "AI/ML / MCA Department",
+        "co-ords" : [186, 621]
+    },
+
+    {
+        "name" : "Biotechnology Department",
+        "co-ords" : [230,620]
+    },
+
+    {
+        "name" : "Amphitheatre",
+        "co-ords" : [214,685]
+    },
+
+    {
+        "name" : "Main Canteen",
+        "co-ords" : [370,664]
+    },
+
+    {
+        "name" : "Parking 1",
+        "co-ords" : [322,281]
+    },
+
+    {
+        "name" : "Parking 2",
+        "co-ords" : [391, 725]
+    },
+
+    {
+        "name" : "Electrical Engineering Department",
+        "co-ords" : [463,266]
+    },
+
+    {
+        "name" : "Computer Science Department",
+        "co-ords" : [506,203]
+    },
+
+    {
+        "name" : "Electronics Engineering Department ",
+        "co-ords" : [429,376]
+    },
+
+    {
+        "name" : "Electronics and Telecommunications Department",
+        "co-ords" : [474,416]
+    },
+    
+    {
+        "name" : "Chemistry / Physics Department",
+        "co-ords" : [467,452]
+    },
+
+    {
+        "name" : "RV University",
+        "co-ords" : [382,415]
+    },
+
+    {
+        "name" : "Mini Canteen",
+        "co-ords" : [548,341]
+    },
+
+    {
+        "name" : "Cricket Ground",
+        "co-ords" : [442,241]
+    },
+
+    {
+        "name" : "Math Department / IDRC",
+        "co-ords" : [672,345]
+    },
+
+    {
+        "name" : "Library",
+        "co-ords" : [599,440]
+    },
+
+    {
+        "name" : "Aerospace / Information Science Department",
+        "co-ords" : [642,443]
+    }
+]
