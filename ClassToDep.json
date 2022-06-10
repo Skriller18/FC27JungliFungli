@@ -1,0 +1,51 @@
+[
+    {
+        "tag" : "AI",
+        "department" : "AI/ML / MCA Department"
+    },
+
+    {
+        "tag" : "CV",
+        "department" : "Civil Engineering Department"
+    },
+
+    {
+        "tag" : "BT",
+        "department" : "Biotechnology Department"
+    },
+
+    {
+        "tag" : "ME",
+        "department" : "Mechanical Engineering Department"
+    },
+
+    {
+        "tag" : "MCA",
+        "department" : "AI/ML / MCA Department"
+    },
+
+    {
+        "tag" : "CS",
+        "department" : "Computer Science Department"
+    },
+
+    {
+        "tag" : "AS",
+        "department" : "Aerospace Engineering Department"
+    },
+
+    {
+        "tag": "IEM",
+        "department": "Industrial Engineering and Management Department"
+    },
+
+    {
+        "tag" : "IS",
+        "department" : "Aerospace / Information Science Department"
+    },
+
+    {
+        "tag" : "CH",
+        "department" : "Chemistry Department"
+    }
+]
