@@ -1,0 +1,56 @@
+[
+    {
+        "name" : "AI001",
+        "co-ords" : [744, 268]
+    },
+
+    {
+        "name" : "AI002 (Door 1)",
+        "co-ords" : [682,785]
+    },
+
+    {
+        "name" : "AI002 (Door 2)",
+        "co-ords" : [681,479]
+    },
+
+    {
+        "name" : "AI003",
+        "co-ords" : [467, 649]
+    },
+
+    {
+        "name" : "Staff Restroom 1",
+        "co-ords" : [263, 320]
+    },
+
+    {
+        "name" : "Staff Restroom 2",
+        "co-ords" : [791, 411]
+    },
+
+    {
+        "name" : "Staff Room 1",
+        "co-ords" : [789, 304]
+    },
+
+    {
+        "name" : "Staff Room 2",
+        "co-ords" : [562, 202]
+    },
+
+    {
+        "name" : "Staff Room 3",
+        "co-ords" : [361, 325]
+    },
+
+    {
+        "name" : "Gents' Restroom",
+        "co-ords" : [209, 377]
+    },
+
+    {
+        "name" : "Ladies' Restroom",
+        "co-ords" : [261, 426]
+    }
+]   
