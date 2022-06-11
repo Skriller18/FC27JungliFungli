@@ -8,7 +8,7 @@ import numpy as np
 
 try:
     # Reading the image using imread() function
-    image = cv2.imread('black_image.jpg')
+    image = cv2.imread('MCA.png')
 
       
     # Extracting the height and width of an image
@@ -21,28 +21,28 @@ try:
     #Making nested list
     matrix = []
       
-    for i in range(10):
+    for i in range(900,1075):
           
         # Append an empty sublist inside the list
         #matrix.append([])
         line=[]
           
-        for j in range(5):
+        for j in range(0, 877):
             (B, G, R) = image[j, i]
             flag = True
             if(R<=10) and (B<=10) and (G<=10):
                 #matrix[i][j] = 1
                 #matrix[i].append(j)
-                line.append(1)
-            else:
                 line.append(0)
+            else:
+                line.append(1)
         matrix.append(line)
               
     print(matrix)
 
     #np.set_printoptions(threshold=np.inf)
     #print(matrix)
-    cv2.imshow("Image",image)
+    cv2.imshow("Image", image)
     cv2.waitKey()
     cv2.destroy()
 
